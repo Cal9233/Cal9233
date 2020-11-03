@@ -9,4 +9,4 @@ Here's what my current coding objectives are
 - 📫 How to reach me: [email](calvin.m9233@gmail.com) || [LinkedIn](https://www.linkedin.com/in/calmalagon/)
 - ⚡ Fun fact: I code standing up (lol)
 
-https://github-readme-stats.vercel.app/api?username=cal9233&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=cal9233&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
