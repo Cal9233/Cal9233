@@ -1,4 +1,4 @@
-### Hey! I'm Calvin Malagon and I'm a Full Stack Developr + Freelancer 👋,
+### Hey! I'm Calvin Malagon and I'm a Full Stack Developer + Freelancer 👋,
 Here's what my current coding objectives are 
 
 - 🔭 I’m currently working on genthrust.org
